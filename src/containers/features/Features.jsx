@@ -1,4 +1,4 @@
-import "./feature.css"
+import "./features.css"
 
 const Features = () => {
   return (
