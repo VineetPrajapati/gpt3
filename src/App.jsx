@@ -7,6 +7,7 @@ import {
   Header,
 } from "./containers";
 import { Cta, Brand, Navbar } from "./components";
+import "./App.css"
 
 function App() {
   return (
